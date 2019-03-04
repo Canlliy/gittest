@@ -1,2 +1,3 @@
 Git is free.
-Hello world.
+Hello world
+测试。
